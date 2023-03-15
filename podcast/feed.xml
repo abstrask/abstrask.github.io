@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Podcast Sandbox</title>
+        <googleplay:author>googleplay:author</googleplay:author>
+        <author>author</author>
+        <itunes:author>itunes:author</itunes:author>
+        <!-- <itunes:email>itunes:email</itunes:email> -->
+        <itunes:category text="Books" />
+        <image>
+            <url>https://image-url/channel.webp</url>
+            <title>image/title</title>
+            <link>https://image-link/</link>
+        </image>
+        <itunes:owner>
+            <itunes:name>itunes:owner/name</itunes:name>
+            <itunes:email>itunes:owner/email</itunes:email>
+        </itunes:owner>
+        <itunes:keywords>lydbog,keyword1,keyword2</itunes:keywords>
+        <copyright>copyright 2023</copyright>
+        <description>description</description>
+        <googleplay:image href="https://googleplay-image-url/channel.webp" />
+        <language>da-dk</language>
+        <itunes:explicit>no</itunes:explicit>
+        <pubDate>Thu, 16 Mar 2023 00:45:00 CET</pubDate>
+        <link>https://link-feed.xml</link>
+        <itunes:image href="https://itunes-image/channel.webp" />
+        <item>
+            <author>item/author</author>
+            <itunes:author>item/itunes:author</itunes:author>
+            <title>item/title</title>
+            <pubDate>Thu, 16 Mar 2023 00:50:00 CET</pubDate>
+            <enclosure url="https://item/episode1.mp3" type="audio/mpeg" length="34216300" />
+            <itunes:duration>54:08</itunes:duration>
+            <guid isPermaLink="false">itemguid01</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <description>
+Very long description.
+Multi-lines.
+            </description>
+        </item>
+    </channel>
+</rss>

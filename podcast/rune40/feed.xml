@@ -26,7 +26,7 @@
         <googleplay:image href="https://rask.dk/podcast/rune40/channel.jpg" />
         <language>da-dk</language>
         <itunes:explicit>no</itunes:explicit>
-        <pubDate>Thu, 16 Mar 2023 00:45:00 CET</pubDate>
+        <pubDate>Thu, 16 Mar 2023 00:50:00 CET</pubDate>
         <link>https://link-feed.xml</link>
         <itunes:image href="https://rask.dk/podcast/rune40/channel.jpg" />
         <item>
@@ -34,6 +34,7 @@
             <itunes:author>item/itunes:author</itunes:author>
             <title>Frank vender hjem - Frank og Thea: 2</title>
             <pubDate>Thu, 16 Mar 2023 00:50:00 CET</pubDate>
+            <!-- Invalid date format for Apple Podcasts - interpreted as 1. Jan 2001 01:00. Time zone correct? -->
             <enclosure url="https://rask.dk/podcast/rune40/frank-02-02.mp3" type="audio/mpeg" length="34216300" />
             <!-- length = bytes -->
             <itunes:duration>54:08</itunes:duration>

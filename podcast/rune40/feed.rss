@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Rune 40 år: Frank vender hjem</title>
+        <googleplay:author>googleplay:author</googleplay:author>
+        <author>author</author>
+        <itunes:author>itunes:author</itunes:author>
+        <!-- <itunes:email>itunes:email</itunes:email> -->
+        <itunes:category text="Books" />
+        <image>
+            <url>https://rask.dk/podcast/rune40/channel.jpg</url>
+            <title>image/title</title>
+            <link>https://image-link/</link>
+        </image>
+        <itunes:owner>
+            <itunes:name>itunes:owner/name</itunes:name>
+            <!-- <itunes:email>itunes:owner/email</itunes:email> -->
+        </itunes:owner>
+        <itunes:keywords>lydbog,keyword1,keyword2</itunes:keywords>
+        <copyright>copyright 2023</copyright>
+        <description>"Frank vender hjem" af Kristian Bang Foss (2018). Oplæst af...</description>
+        <googleplay:image href="https://rask.dk/podcast/rune40/channel.jpg" />
+        <language>da-dk</language>
+        <itunes:explicit>no</itunes:explicit>
+        <pubDate>Thu, 16 Mar 2023 00:50:00 CET</pubDate>
+        <link>https://link-feed.xml</link>
+        <itunes:image href="https://rask.dk/podcast/rune40/channel.jpg" />
+        <item>
+            <author>item/author</author>
+            <itunes:author>item/itunes:author</itunes:author>
+            <title>Frank vender hjem - Frank og Thea: 2</title>
+            <pubDate>Thu, 16 Mar 2023 00:50:00 CET</pubDate>
+            <!-- Invalid date format for Apple Podcasts - interpreted as 1. Jan 2001 01:00. Time zone correct? -->
+            <enclosure url="https://rask.dk/podcast/rune40/frank-02-02.mp3" type="audio/mpeg" length="34216300" />
+            <!-- length = bytes -->
+            <itunes:duration>54:08</itunes:duration>
+            <guid isPermaLink="false">itemguid01</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <description>
+Very long description.
+Multi-lines.
+            </description>
+        </item>
+        <item>
+            <author>item/author</author>
+            <itunes:author>item/itunes:author</itunes:author>
+            <title>Frank vender hjem - Frank og Thea: 1</title>
+            <pubDate>Thu, 16 Mar 2023 00:50:00 CET</pubDate>
+            <enclosure url="https://rask.dk/podcast/rune40/frank-02-01.mp3" type="audio/mpeg" length="34216300" />
+            <!-- length = bytes -->
+            <itunes:duration>54:08</itunes:duration>
+            <guid isPermaLink="false">itemguid01</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <description>
+Very long description.
+Multi-lines.
+            </description>
+        </item>
+        <item>
+            <author>item/author</author>
+            <itunes:author>item/itunes:author</itunes:author>
+            <title>Frank vender hjem - Frank og hans forældre: 5</title>
+            <pubDate>Thu, 16 Mar 2023 00:50:00 CET</pubDate>
+            <enclosure url="https://rask.dk/podcast/rune40/frank-01-05.mp3" type="audio/mpeg" length="34216300" />
+            <!-- length = bytes -->
+            <itunes:duration>54:08</itunes:duration>
+            <guid isPermaLink="false">itemguid01</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <description>
+Very long description.
+Multi-lines.
+            </description>
+        </item>
+        <item>
+            <author>item/author</author>
+            <itunes:author>item/itunes:author</itunes:author>
+            <title>Frank vender hjem - Frank og hans forældre: 1</title>
+            <pubDate>Thu, 16 Mar 2023 00:50:00 CET</pubDate>
+            <enclosure url="https://rask.dk/podcast/rune40/frank-01-01.mp3" type="audio/mpeg" length="34216300" />
+            <!-- length = bytes -->
+            <itunes:duration>54:08</itunes:duration>
+            <guid isPermaLink="false">itemguid01</guid>
+            <itunes:explicit>no</itunes:explicit>
+            <description>
+Very long description.
+Multi-lines.
+            </description>
+        </item>
+    </channel>
+</rss>

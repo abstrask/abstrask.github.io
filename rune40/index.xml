@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Frank Vender Hjem</title>
+    <link>https://rask.dk/rune40/</link>
+    <description>Dette er en særproduktion af bogen, Frank vender hjem, lavet i anledning af Runes 40-års fødselsdag 2023.
+Ide, koncept og tilrettelæggelse: Signe Thydal
+Redigering og (enorm og uvurderlig) teknisk support: Rasmus Rask
+Oplæsere: 31 personer fra Runes familie og vennekreds
+
+Dejligste Mus!
+Kæmpe tillykke med fødselsdagen. Jeg vil med denne lydbogsproduktion gerne sige tak!
+Tak for ca. 1 million timers godnat historie. Både IRL og optagelser.
+Tak for dit dejlige, tålmodige, kærlige, åbne, modige og gavmilde væsen.
+Tak fordi du accepterer og elsker mig som jeg er  - også når jeg falder i søvn under godnathistorie-oplæsning.
+Tak fordi du har bragt så mange dejlige mennesker ind i mit liv.
+Tak fordi du stadig kaster dig ud i nye eventyr og udfordringer, udvider din horisont og gør mig klogere samtidig.
+Tak for 7 helt fantastiske år fyldt med kærlighed, kultur, eventyr, udfordringer, udvikling, hygge, oplæsning og Matador.
+Tak for dig!
+
+Denne lydbog viser forhåbentlig også, at jeg ikke er den eneste, der er helt vild med dig &lt;3
+Rigtig god lyttelyst!
+Kys og kærlighed fra Miv</description>
+    <itunes:explicit>no</itunes:explicit>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
+    <lastBuildDate>Sun, 13 Aug 2023 22:11:18 +0000</lastBuildDate>
+    <pubDate>Sat, 26 Aug 2023 12:00:00 +0200</pubDate>
+    <itunes:image href="https://rask.dk/rune40/podcast.jpg"/>
+    <item>
+      <title>Kolofon</title>
+      <description><![CDATA[Oplæser: Signe Thydal]]></description>
+      <itunes:author>Signe Thydal</itunes:author>
+      <dc:creator>Signe Thydal</dc:creator>
+      <guid isPermaLink="false">frank_del0_kolofon</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del0_kolofon.m4a" length="302159" type="audio/mp4"/>
+      <itunes:duration>00:20</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:00:00 +0200</pubDate>
+      <itunes:order>1</itunes:order>
+    </item>
+    <item>
+      <title>Del 1: Frank og hans forældre, kapitel 1</title>
+      <description><![CDATA[Oplæser: Astrid Rask]]></description>
+      <itunes:author>Astrid Rask</itunes:author>
+      <dc:creator>Astrid Rask</dc:creator>
+      <guid isPermaLink="false">frank_del1_kap01</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del1_kap01.m4a" length="3952968" type="audio/mp4"/>
+      <itunes:duration>06:43</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:01:00 +0200</pubDate>
+      <itunes:order>2</itunes:order>
+    </item>
+    <item>
+      <title>Del 1: Frank og hans forældre, kapitel 2</title>
+      <description><![CDATA[Oplæser: Astrid Rask]]></description>
+      <itunes:author>Astrid Rask</itunes:author>
+      <dc:creator>Astrid Rask</dc:creator>
+      <guid isPermaLink="false">frank_del1_kap02</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del1_kap02.m4a" length="4347828" type="audio/mp4"/>
+      <itunes:duration>07:23</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:02:00 +0200</pubDate>
+      <itunes:order>3</itunes:order>
+    </item>
+    <item>
+      <title>Del 1: Frank og hans forældre, kapitel 3</title>
+      <description><![CDATA[Oplæser: Astrid Rask]]></description>
+      <itunes:author>Astrid Rask</itunes:author>
+      <dc:creator>Astrid Rask</dc:creator>
+      <guid isPermaLink="false">frank_del1_kap03</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del1_kap03.m4a" length="11173358" type="audio/mp4"/>
+      <itunes:duration>19:58</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:03:00 +0200</pubDate>
+      <itunes:order>4</itunes:order>
+    </item>
+    <item>
+      <title>Del 1: Frank og hans forældre, kapitel 4</title>
+      <description><![CDATA[Oplæser: Per Helmgaard]]></description>
+      <itunes:author>Per Helmgaard</itunes:author>
+      <dc:creator>Per Helmgaard</dc:creator>
+      <guid isPermaLink="false">frank_del1_kap04</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del1_kap04.m4a" length="7311015" type="audio/mp4"/>
+      <itunes:duration>13:32</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:04:00 +0200</pubDate>
+      <itunes:order>5</itunes:order>
+    </item>
+    <item>
+      <title>Del 1: Frank og hans forældre, kapitel 5</title>
+      <description><![CDATA[Oplæser: Per Helmgaard]]></description>
+      <itunes:author>Per Helmgaard</itunes:author>
+      <dc:creator>Per Helmgaard</dc:creator>
+      <guid isPermaLink="false">frank_del1_kap05</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del1_kap05.m4a" length="7750762" type="audio/mp4"/>
+      <itunes:duration>14:20</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:05:00 +0200</pubDate>
+      <itunes:order>6</itunes:order>
+    </item>
+    <item>
+      <title>Del 2: Frank og Thea, kapitel 1</title>
+      <description><![CDATA[Oplæser: Signe Thydal]]></description>
+      <itunes:author>Signe Thydal</itunes:author>
+      <dc:creator>Signe Thydal</dc:creator>
+      <guid isPermaLink="false">frank_del2_kap01</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del2_kap01.m4a" length="2252210" type="audio/mp4"/>
+      <itunes:duration>03:48</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:06:00 +0200</pubDate>
+      <itunes:order>7</itunes:order>
+    </item>
+    <item>
+      <title>Del 2: Frank og Thea, kapitel 2</title>
+      <description><![CDATA[Oplæser: Signe Thydal]]></description>
+      <itunes:author>Signe Thydal</itunes:author>
+      <dc:creator>Signe Thydal</dc:creator>
+      <guid isPermaLink="false">frank_del2_kap02</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del2_kap02.m4a" length="5777903" type="audio/mp4"/>
+      <itunes:duration>09:58</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:07:00 +0200</pubDate>
+      <itunes:order>8</itunes:order>
+    </item>
+    <item>
+      <title>Del 2: Frank og Thea, kapitel 3</title>
+      <description><![CDATA[Oplæser: Signe Thydal]]></description>
+      <itunes:author>Signe Thydal</itunes:author>
+      <dc:creator>Signe Thydal</dc:creator>
+      <guid isPermaLink="false">frank_del2_kap03</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del2_kap03.m4a" length="7350444" type="audio/mp4"/>
+      <itunes:duration>13:00</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:08:00 +0200</pubDate>
+      <itunes:order>9</itunes:order>
+    </item>
+    <item>
+      <title>Del 2: Frank og Thea, kapitel 4</title>
+      <description><![CDATA[Oplæser: Tama Veng Rasmussen]]></description>
+      <itunes:author>Tama Veng Rasmussen</itunes:author>
+      <dc:creator>Tama Veng Rasmussen</dc:creator>
+      <guid isPermaLink="false">frank_del2_kap04</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del2_kap04.m4a" length="4318238" type="audio/mp4"/>
+      <itunes:duration>07:28</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:09:00 +0200</pubDate>
+      <itunes:order>10</itunes:order>
+    </item>
+    <item>
+      <title>Del 3: Thea og hendes familie, kapitel 1</title>
+      <description><![CDATA[Oplæser: Annette Thydal]]></description>
+      <itunes:author>Annette Thydal</itunes:author>
+      <dc:creator>Annette Thydal</dc:creator>
+      <guid isPermaLink="false">frank_del3_kap01</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del3_kap01.m4a" length="4658773" type="audio/mp4"/>
+      <itunes:duration>07:56</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:10:00 +0200</pubDate>
+      <itunes:order>11</itunes:order>
+    </item>
+    <item>
+      <title>Del 3: Thea og hendes familie, kapitel 2</title>
+      <description><![CDATA[Oplæser: Claus Jensen]]></description>
+      <itunes:author>Claus Jensen</itunes:author>
+      <dc:creator>Claus Jensen</dc:creator>
+      <guid isPermaLink="false">frank_del3_kap02</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del3_kap02.m4a" length="6522513" type="audio/mp4"/>
+      <itunes:duration>11:33</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:11:00 +0200</pubDate>
+      <itunes:order>12</itunes:order>
+    </item>
+    <item>
+      <title>Del 3: Thea og hendes familie, kapitel 3</title>
+      <description><![CDATA[Oplæser: Claus Jensen]]></description>
+      <itunes:author>Claus Jensen</itunes:author>
+      <dc:creator>Claus Jensen</dc:creator>
+      <guid isPermaLink="false">frank_del3_kap03</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del3_kap03.m4a" length="11042531" type="audio/mp4"/>
+      <itunes:duration>19:51</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:12:00 +0200</pubDate>
+      <itunes:order>13</itunes:order>
+    </item>
+    <item>
+      <title>Del 3: Thea og hendes familie, kapitel 4</title>
+      <description><![CDATA[Oplæser: Mikkel Thydal]]></description>
+      <itunes:author>Mikkel Thydal</itunes:author>
+      <dc:creator>Mikkel Thydal</dc:creator>
+      <guid isPermaLink="false">frank_del3_kap04</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del3_kap04.m4a" length="11124407" type="audio/mp4"/>
+      <itunes:duration>17:38</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:13:00 +0200</pubDate>
+      <itunes:order>14</itunes:order>
+    </item>
+    <item>
+      <title>Del 4: Sankthans i Skagen, kapitel 1</title>
+      <description><![CDATA[Oplæser: Mads Stender-Ilsøe]]></description>
+      <itunes:author>Mads Stender-Ilsøe</itunes:author>
+      <dc:creator>Mads Stender-Ilsøe</dc:creator>
+      <guid isPermaLink="false">frank_del4_kap01</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del4_kap01.m4a" length="5177449" type="audio/mp4"/>
+      <itunes:duration>09:37</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:14:00 +0200</pubDate>
+      <itunes:order>15</itunes:order>
+    </item>
+    <item>
+      <title>Del 4: Sankthans i Skagen, kapitel 2</title>
+      <description><![CDATA[Oplæser: Mads Stender-Ilsøe]]></description>
+      <itunes:author>Mads Stender-Ilsøe</itunes:author>
+      <dc:creator>Mads Stender-Ilsøe</dc:creator>
+      <guid isPermaLink="false">frank_del4_kap02</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del4_kap02.m4a" length="14740693" type="audio/mp4"/>
+      <itunes:duration>28:23</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:15:00 +0200</pubDate>
+      <itunes:order>16</itunes:order>
+    </item>
+    <item>
+      <title>Del 4: Sankthans i Skagen, kapitel 3</title>
+      <description><![CDATA[Oplæser: Mads Hetoft]]></description>
+      <itunes:author>Mads Hetoft</itunes:author>
+      <dc:creator>Mads Hetoft</dc:creator>
+      <guid isPermaLink="false">frank_del4_kap03</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del4_kap03.m4a" length="25042934" type="audio/mp4"/>
+      <itunes:duration>46:53</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:16:00 +0200</pubDate>
+      <itunes:order>17</itunes:order>
+    </item>
+    <item>
+      <title>Del 5: Havet, kapitel 1</title>
+      <description><![CDATA[Oplæser: Alfred Santiago]]></description>
+      <itunes:author>Alfred Santiago</itunes:author>
+      <dc:creator>Alfred Santiago</dc:creator>
+      <guid isPermaLink="false">frank_del5_kap01</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del5_kap01.m4a" length="5379183" type="audio/mp4"/>
+      <itunes:duration>08:52</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:17:00 +0200</pubDate>
+      <itunes:order>18</itunes:order>
+    </item>
+    <item>
+      <title>Del 5: Havet, kapitel 2</title>
+      <description><![CDATA[Oplæser: Alfred Santiago]]></description>
+      <itunes:author>Alfred Santiago</itunes:author>
+      <dc:creator>Alfred Santiago</dc:creator>
+      <guid isPermaLink="false">frank_del5_kap02</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del5_kap02.m4a" length="6044062" type="audio/mp4"/>
+      <itunes:duration>09:38</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:18:00 +0200</pubDate>
+      <itunes:order>19</itunes:order>
+    </item>
+    <item>
+      <title>Del 5: Havet, kapitel 3</title>
+      <description><![CDATA[Oplæser: Stine Brix Pedersen]]></description>
+      <itunes:author>Stine Brix Pedersen</itunes:author>
+      <dc:creator>Stine Brix Pedersen</dc:creator>
+      <guid isPermaLink="false">frank_del5_kap03</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del5_kap03.m4a" length="5897394" type="audio/mp4"/>
+      <itunes:duration>07:03</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:19:00 +0200</pubDate>
+      <itunes:order>20</itunes:order>
+    </item>
+    <item>
+      <title>Del 5: Havet, kapitel 4</title>
+      <description><![CDATA[Oplæser: Jón Hammer]]></description>
+      <itunes:author>Jón Hammer</itunes:author>
+      <dc:creator>Jón Hammer</dc:creator>
+      <guid isPermaLink="false">frank_del5_kap04</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del5_kap04.m4a" length="13378233" type="audio/mp4"/>
+      <itunes:duration>11:47</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:20:00 +0200</pubDate>
+      <itunes:order>21</itunes:order>
+    </item>
+    <item>
+      <title>Del 5: Havet, kapitel 5</title>
+      <description><![CDATA[Oplæser: Thejs Nyland Sørensen]]></description>
+      <itunes:author>Thejs Nyland Sørensen</itunes:author>
+      <dc:creator>Thejs Nyland Sørensen</dc:creator>
+      <guid isPermaLink="false">frank_del5_kap05</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del5_kap05.m4a" length="9068295" type="audio/mp4"/>
+      <itunes:duration>14:36</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:21:00 +0200</pubDate>
+      <itunes:order>22</itunes:order>
+    </item>
+    <item>
+      <title>Del 5: Havet, kapitel 6</title>
+      <description><![CDATA[Oplæser: Julie Stegmann]]></description>
+      <itunes:author>Julie Stegmann</itunes:author>
+      <dc:creator>Julie Stegmann</dc:creator>
+      <guid isPermaLink="false">frank_del5_kap06</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del5_kap06.m4a" length="5180823" type="audio/mp4"/>
+      <itunes:duration>08:08</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:22:00 +0200</pubDate>
+      <itunes:order>23</itunes:order>
+    </item>
+    <item>
+      <title>Del 5: Havet, kapitel 7</title>
+      <description><![CDATA[Oplæser: Julie Stegmann]]></description>
+      <itunes:author>Julie Stegmann</itunes:author>
+      <dc:creator>Julie Stegmann</dc:creator>
+      <guid isPermaLink="false">frank_del5_kap07</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del5_kap07.m4a" length="10320510" type="audio/mp4"/>
+      <itunes:duration>16:33</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:23:00 +0200</pubDate>
+      <itunes:order>24</itunes:order>
+    </item>
+    <item>
+      <title>Del 5: Havet, kapitel 8</title>
+      <description><![CDATA[Oplæser: Lise Friis-Christiansen]]></description>
+      <itunes:author>Lise Friis-Christiansen</itunes:author>
+      <dc:creator>Lise Friis-Christiansen</dc:creator>
+      <guid isPermaLink="false">frank_del5_kap08</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del5_kap08.m4a" length="8390555" type="audio/mp4"/>
+      <itunes:duration>14:19</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:24:00 +0200</pubDate>
+      <itunes:order>25</itunes:order>
+    </item>
+    <item>
+      <title>Del 5: Havet, kapitel 9</title>
+      <description><![CDATA[Oplæser: Elsba Hardlei Aagaard]]></description>
+      <itunes:author>Elsba Hardlei Aagaard</itunes:author>
+      <dc:creator>Elsba Hardlei Aagaard</dc:creator>
+      <guid isPermaLink="false">frank_del5_kap09</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del5_kap09.m4a" length="7405956" type="audio/mp4"/>
+      <itunes:duration>12:54</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:25:00 +0200</pubDate>
+      <itunes:order>26</itunes:order>
+    </item>
+    <item>
+      <title>Del 5: Havet, kapitel 10</title>
+      <description><![CDATA[Oplæser: Jesper Andersen]]></description>
+      <itunes:author>Jesper Andersen</itunes:author>
+      <dc:creator>Jesper Andersen</dc:creator>
+      <guid isPermaLink="false">frank_del5_kap10</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del5_kap10.m4a" length="8194548" type="audio/mp4"/>
+      <itunes:duration>15:27</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:26:00 +0200</pubDate>
+      <itunes:order>27</itunes:order>
+    </item>
+    <item>
+      <title>Del 5: Havet, kapitel 11</title>
+      <description><![CDATA[Oplæser: Susan Ea Kirkegaard]]></description>
+      <itunes:author>Susan Ea Kirkegaard</itunes:author>
+      <dc:creator>Susan Ea Kirkegaard</dc:creator>
+      <guid isPermaLink="false">frank_del5_kap11</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del5_kap11.m4a" length="5575495" type="audio/mp4"/>
+      <itunes:duration>15:44</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:27:00 +0200</pubDate>
+      <itunes:order>28</itunes:order>
+    </item>
+    <item>
+      <title>Del 6: Frank vender hjem, kapitel 1</title>
+      <description><![CDATA[Oplæser: Sølvi Rask]]></description>
+      <itunes:author>Sølvi Rask</itunes:author>
+      <dc:creator>Sølvi Rask</dc:creator>
+      <guid isPermaLink="false">frank_del6_kap01</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del6_kap01.m4a" length="13214191" type="audio/mp4"/>
+      <itunes:duration>23:45</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:28:00 +0200</pubDate>
+      <itunes:order>29</itunes:order>
+    </item>
+    <item>
+      <title>Del 6: Frank vender hjem, kapitel 2</title>
+      <description><![CDATA[Oplæser: Sølvi Rask]]></description>
+      <itunes:author>Sølvi Rask</itunes:author>
+      <dc:creator>Sølvi Rask</dc:creator>
+      <guid isPermaLink="false">frank_del6_kap02</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del6_kap02.m4a" length="6110281" type="audio/mp4"/>
+      <itunes:duration>11:32</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:29:00 +0200</pubDate>
+      <itunes:order>30</itunes:order>
+    </item>
+    <item>
+      <title>Del 6: Frank vender hjem, kapitel 3</title>
+      <description><![CDATA[Oplæser: Ninna Helene Meacock, Malte Bille Rask]]></description>
+      <itunes:author>Ninna Helene Meacock, Malte Bille Rask</itunes:author>
+      <dc:creator>Ninna Helene Meacock, Malte Bille Rask</dc:creator>
+      <guid isPermaLink="false">frank_del6_kap03</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del6_kap03.m4a" length="17311670" type="audio/mp4"/>
+      <itunes:duration>22:42</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:30:00 +0200</pubDate>
+      <itunes:order>31</itunes:order>
+    </item>
+    <item>
+      <title>Del 6: Frank vender hjem, kapitel 4</title>
+      <description><![CDATA[Oplæser: Lisbeth Helmgaard]]></description>
+      <itunes:author>Lisbeth Helmgaard</itunes:author>
+      <dc:creator>Lisbeth Helmgaard</dc:creator>
+      <guid isPermaLink="false">frank_del6_kap04</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del6_kap04.m4a" length="6899781" type="audio/mp4"/>
+      <itunes:duration>12:22</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:31:00 +0200</pubDate>
+      <itunes:order>32</itunes:order>
+    </item>
+    <item>
+      <title>Del 6: Frank vender hjem, kapitel 5</title>
+      <description><![CDATA[Oplæser: Ingrid Rask]]></description>
+      <itunes:author>Ingrid Rask</itunes:author>
+      <dc:creator>Ingrid Rask</dc:creator>
+      <guid isPermaLink="false">frank_del6_kap05</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del6_kap05.m4a" length="20010133" type="audio/mp4"/>
+      <itunes:duration>33:39</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:32:00 +0200</pubDate>
+      <itunes:order>33</itunes:order>
+    </item>
+    <item>
+      <title>Del 6: Frank vender hjem, kapitel 6</title>
+      <description><![CDATA[Oplæser: Uffe Hansen]]></description>
+      <itunes:author>Uffe Hansen</itunes:author>
+      <dc:creator>Uffe Hansen</dc:creator>
+      <guid isPermaLink="false">frank_del6_kap06</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del6_kap06.m4a" length="9083804" type="audio/mp4"/>
+      <itunes:duration>17:35</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:33:00 +0200</pubDate>
+      <itunes:order>34</itunes:order>
+    </item>
+    <item>
+      <title>Del 6: Frank vender hjem, kapitel 7</title>
+      <description><![CDATA[Oplæser: Rasmus Rask]]></description>
+      <itunes:author>Rasmus Rask</itunes:author>
+      <dc:creator>Rasmus Rask</dc:creator>
+      <guid isPermaLink="false">frank_del6_kap07</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del6_kap07.m4a" length="4911467" type="audio/mp4"/>
+      <itunes:duration>06:59</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:34:00 +0200</pubDate>
+      <itunes:order>35</itunes:order>
+    </item>
+    <item>
+      <title>Del 6: Frank vender hjem, kapitel 8</title>
+      <description><![CDATA[Oplæser: Emma Rask, Mikkel Rask, Christina Rask]]></description>
+      <itunes:author>Emma Rask, Mikkel Rask, Christina Rask</itunes:author>
+      <dc:creator>Emma Rask, Mikkel Rask, Christina Rask</dc:creator>
+      <guid isPermaLink="false">frank_del6_kap08</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del6_kap08.m4a" length="12791383" type="audio/mp4"/>
+      <itunes:duration>18:11</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:35:00 +0200</pubDate>
+      <itunes:order>36</itunes:order>
+    </item>
+    <item>
+      <title>Del 6: Frank vender hjem, kapitel 9</title>
+      <description><![CDATA[Oplæser: Ella Jensen]]></description>
+      <itunes:author>Ella Jensen</itunes:author>
+      <dc:creator>Ella Jensen</dc:creator>
+      <guid isPermaLink="false">frank_del6_kap09</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del6_kap09.m4a" length="20330288" type="audio/mp4"/>
+      <itunes:duration>32:21</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:36:00 +0200</pubDate>
+      <itunes:order>37</itunes:order>
+    </item>
+    <item>
+      <title>Del 6: Frank vender hjem, kapitel 10</title>
+      <description><![CDATA[Oplæser: Kasper Rask, Cecilie Bøttern Steffensen]]></description>
+      <itunes:author>Kasper Rask, Cecilie Bøttern Steffensen</itunes:author>
+      <dc:creator>Kasper Rask, Cecilie Bøttern Steffensen</dc:creator>
+      <guid isPermaLink="false">frank_del6_kap10</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del6_kap10.m4a" length="20287184" type="audio/mp4"/>
+      <itunes:duration>37:01</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:37:00 +0200</pubDate>
+      <itunes:order>38</itunes:order>
+    </item>
+    <item>
+      <title>Del 6: Frank vender hjem, kapitel 11</title>
+      <description><![CDATA[Oplæser: Åse Rask]]></description>
+      <itunes:author>Åse Rask</itunes:author>
+      <dc:creator>Åse Rask</dc:creator>
+      <guid isPermaLink="false">frank_del6_kap11</guid>
+      <enclosure url="https://rask.dk/rune40/frank_del6_kap11.m4a" length="2623829" type="audio/mp4"/>
+      <itunes:duration>03:54</itunes:duration>
+      <pubDate>Sat, 26 Aug 2023 12:38:00 +0200</pubDate>
+      <itunes:order>39</itunes:order>
+    </item>
+  </channel>
+</rss>

@@ -64,7 +64,7 @@
           Tilføj podcast
         </a></p>
 
-        <p align="center">Når du har tilføjet podcasten, bør du gå ind i dens indstillinger, og ændre episoderækkefølge til "Ældeste til nyeste"</p>
+        <p align="center">Når du har tilføjet podcasten, bør du gå ind i dens indstillinger, og ændre episoderækkefølge til "Ældste til nyeste"</p>
 
         <xsl:for-each select="/rss/channel/item">
           <div class="item inner">

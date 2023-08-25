@@ -1,0 +1,143 @@
+body{
+    text-rendering:optimizeLegibility;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    margin:0;
+    color:rgba(0,0,0,.86);
+    font:16px/1.42 -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Hiragino Sans GB,Droid Sans Fallback,Microsoft YaHei,sans-serif
+}
+img{
+    max-width:100%
+}
+.inner{
+    max-width:860px;
+    margin:0 auto;
+    padding:0 20px;
+    box-sizing:border-box
+}
+.top{
+    margin-top:10px;
+    font-size:12px
+}
+.top,.top a{
+    color:#565657
+}
+.head{
+    padding-top:80px;
+    padding-bottom:40px
+}
+.head_logo{
+    float:left;
+    width:120px;
+    /* height:120px; */
+    margin-right:20px
+}
+.head_main{
+    overflow:hidden
+}
+.head h1{
+    font-size:36px;
+    font-weight:400;
+    margin:0;
+    color:#000
+}
+.head p{
+    margin:0 0 10px;
+    font-size:18px;
+    font-weight:300;
+    color:#565657
+}
+.head .head_link{
+    font-size:14px;
+    font-weight:600;
+    color:#333;
+    text-decoration:none
+}
+.links{
+    margin:30px auto
+}
+.links a{
+    display:inline-block;
+    text-decoration:none;
+    line-height:28px;
+    padding-left:30px;
+    background-position:0;
+    background-size:24px 24px;
+    background-repeat:no-repeat;
+    font-weight:600;
+    color:#333
+}
+.links a+a{
+    margin-left:1.4em
+}
+
+.links a.podcast:hover{
+    color:#93c
+}
+.links a.castro:hover{
+    color:#00b265
+}
+.links a.google:hover{
+    color:#4285f4
+}
+.links a.spotify:hover{
+    color:#1ed760
+}
+.links a.overcast:hover{
+    color:#fc7e0f
+}
+.item{
+    border-top:1px solid rgba(0,0,0,.04);
+    padding:20px;
+    margin:20px auto
+}
+.item_meta{
+    font-size:14px;
+    color:#565657
+}
+.item a{
+    color:rgba(0,0,0,.98);
+    text-decoration:none
+}
+.item>h2{
+    margin:0
+}
+.item>h3{
+    margin:6px 0 10px;
+    font-size:18px;
+    font-weight:300;
+    color:#565657
+}
+.item>audio{
+    display:block;
+    width:100%;
+    margin-top:20px
+}
+.typlog-foot{
+    border-top:1px solid rgba(0,0,0,.04);
+    padding:10px 20px
+}
+.typlog-foot .title{
+    text-decoration:none;
+    text-transform:uppercase;
+    font-size:16px;
+    font-weight:900;
+    color:rgba(0,0,0,.2);
+    letter-spacing:.02em;
+    margin-right:1em
+}
+.typlog-foot nav{
+    display:inline-block
+}
+.typlog-foot nav>a{
+    text-decoration:none;
+    color:rgba(0,0,0,.6);
+    -webkit-transition:color .2s ease;
+    transition:color .2s ease;
+    font-size:.92em
+}
+.typlog-foot nav>a+a:before{
+    content:" / ";
+    font-size:10px;
+    color:rgba(0,0,0,.1)
+}

@@ -78,7 +78,7 @@
           </div>
         </xsl:if>
 
-        <p align="center"><a>
+        <p align="center" class="links"><a>
           <xsl:attribute name="href">
             <xsl:value-of select="$podcastLink"/>
           </xsl:attribute>
